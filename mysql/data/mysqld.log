@@ -1,0 +1,41 @@
+2021-02-23T15:43:07.969224Z 0 [System] [MY-013169] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe (mysqld 8.0.23) initializing of server in progress as process 20168
+2021-02-23T15:43:08.001330Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-02-23T15:43:11.371027Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-23T15:43:15.020508Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --binlog-expire-logs-seconds work.
+2021-02-23T15:43:15.510389Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2021-02-23T15:43:20.075475Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe (mysqld 8.0.23) starting as process 5676
+2021-02-23T15:43:20.106533Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-02-23T15:43:21.492640Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-23T15:43:21.789008Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-02-23T15:43:22.027533Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-02-23T15:43:22.029146Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-02-23T15:43:22.112777Z 0 [System] [MY-010931] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.23'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2021-02-23T15:43:57.888179Z 9 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.23).
+2021-02-23T15:43:57.890729Z 0 [System] [MY-013105] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: Normal shutdown.
+2021-02-23T15:43:58.653265Z 0 [System] [MY-010910] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.23)  MySQL Community Server - GPL.
+2021-02-23T15:44:43.188511Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe (mysqld 8.0.23) starting as process 12132
+2021-02-23T15:44:43.224797Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-02-23T15:44:44.558388Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-23T15:44:44.986415Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-02-23T15:44:45.171553Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-02-23T15:44:45.174225Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-02-23T15:44:45.284301Z 0 [System] [MY-010931] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.23'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2021-02-23T15:49:53.160571Z 0 [System] [MY-013105] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: Normal shutdown.
+2021-02-23T15:49:57.386581Z 0 [System] [MY-010910] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.23)  MySQL Community Server - GPL.
+2021-02-23T15:49:59.221829Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-02-23T15:49:59.222269Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe (mysqld 8.0.23) starting as process 10480
+2021-02-23T15:49:59.257802Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-02-23T15:50:00.673546Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-23T15:50:01.782293Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-02-23T15:50:02.025268Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-02-23T15:50:02.027168Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2021-02-23T15:50:02.123732Z 0 [System] [MY-010931] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.23'  socket: ''  port: 3307  MySQL Community Server - GPL.
+2021-02-24T16:01:17.646648Z 0 [System] [MY-013105] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: Normal shutdown.
+2021-02-24T16:01:18.502019Z 0 [System] [MY-010910] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.23)  MySQL Community Server - GPL.
+2021-02-24T16:02:01.287705Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2021-02-24T16:02:01.289000Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\PRESTA~1\mysql\bin\mysqld.exe (mysqld 8.0.23) starting as process 6116
+2021-02-24T16:02:01.472559Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2021-02-24T16:02:02.844170Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2021-02-24T16:02:03.735980Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2021-02-24T16:02:03.903404Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2021-02-24T16:02:03.904302Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
